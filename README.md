@@ -109,7 +109,7 @@
 
 <h2>📘 اختبار Assignment 2 - فيزياء الخلايا الشمسية</h2>
 
-<form action="https://script.google.com/macros/s/AKfycbx3YRbMFL_pxmbkqFnTT4yR19vrqp8AED87bKpSMaDARgVcpFYqGCpIKi2nmbLlsCXw/exec"
+<form action="https://script.google.com/macros/s/AKfycbz_DbNVI3wXbKwi6SXtFZ0J-t-gLtpRZ3Ds8-97vtw_HxdAoUNRnXvOaBsgEXoSYZ-w/exec"
       method="POST"
       target="hidden_iframe"
       onsubmit="return handleSubmit();">
