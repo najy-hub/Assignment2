@@ -136,8 +136,8 @@
   <div class="question">
     <p>3. ضعف كفاءة الألواح مقارنة مع المساحة يرجع إلى:</p>
     <label><input type="radio" name="q3" value="شدة الاشعاع"> شدة الاشعاع</label>
-    <label><input type="radio" name="q3" value="كلفة السيليكون"> كلفة السيليكون</label>
-    <label><input type="radio" name="q3" value="الطبيعة الجسيمية"> الطبيعة الجسيمية</label>
+    <label><input type="radio" name="q3" value="كلفة السيليكون">  ارتفاع تكلفة السيليكون النقى</label>
+    <label><input type="radio" name="q3" value="الطبيعة الجسيمية"> كثرة الفاقد نسبة لطبيعة الالكترون لان الالواح الحالية مصممة على اساس الطبيعة الجسيمية للالكترون </label>
   </div>
 
   <div class="question">
@@ -155,10 +155,10 @@
   </div>
 
   <div class="question">
-    <p>6. اللوح من نوع P-type إذا كان:</p>
-    <label><input type="radio" name="q6" value="Bulk P"> Bulk P</label>
-    <label><input type="radio" name="q6" value="Emitting P"> Emitting P</label>
-    <label><input type="radio" name="q6" value="كلاهما P"> كلاهما P</label>
+    <p>6. يمكن القول ان اللوح من نوع P-type   إذا كان :</p>
+    <label><input type="radio" name="q6" value="Bulk area  من نوع P-type "> Bulk P</label>
+    <label><input type="radio" name="q6" value="Emitting area من نوع P-type"> Emitting P</label>
+    <label><input type="radio" name="q6" value="الاثنين من نوع P-type"> كلاهما P</label>
   </div>
 
   <div class="question">
