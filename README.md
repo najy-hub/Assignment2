@@ -156,17 +156,17 @@
 
   <div class="question">
     <p>6. يمكن القول ان اللوح من نوع P-type   إذا كان :</p>
-    <label><input type="radio" name="q6" value="Bulk area  من نوع P-type "> Bulk P</label>
-    <label><input type="radio" name="q6" value="Emitting area من نوع P-type"> Emitting P</label>
-    <label><input type="radio" name="q6" value="الاثنين من نوع P-type"> كلاهما P</label>
+    <label><input type="radio" name="q6" value="Bulk P "> Bulk area  من نوع P-type </label>
+    <label><input type="radio" name="q6" value="Emitting P"> Emitting area من نوع P-type</label>
+    <label><input type="radio" name="q6" value="كلاهما P"> الاثنين من نوع P-type</label>
   </div>
 
   <div class="question">
-    <p>7. Voc هو الفرق بين:</p>
-    <label><input type="radio" name="q7" value="VB P - CB N"> VB P - CB N</label>
-    <label><input type="radio" name="q7" value="CB P - CB N"> CB P - CB N</label>
-    <label><input type="radio" name="q7" value="VB P - VB N"> VB P - VB N</label>
-    <label><input type="radio" name="q7" value="CB P - VB N"> CB P - VB N</label>
+    <p>7.فى فيزياء الكم Vocإذا كان اللوح P=Emitting , N= Bulk  هو عبارة عن الفرق بين :</p>
+    <label><input type="radio" name="q7" value="VB P - CB N">الفرق فى الطاقة بين Valence Band فى P و Conduction Band فى N</label>
+    <label><input type="radio" name="q7" value="CB P - CB N"> الفرق فى الطاقة بين Conduction Band فى P و Conduction Band فى N</label>
+    <label><input type="radio" name="q7" value="VB P - VB N">الفرق فى الطاقة بين Valence Band فى P و Valence Band فى N</label>
+    <label><input type="radio" name="q7" value="CB P - VB N"> الفرق فى الطاقة بين Conduction Band فى P و Valence Band فى N</label>
   </div>
 
   <div class="question">
