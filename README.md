@@ -171,20 +171,20 @@
 
   <div class="question">
     <p>8. درجة الحرارة تؤثر على Voc بسبب:</p>
-    <label><input type="radio" name="q8" value="الفولت يقل لمسافة الطاقة"> الفولت يقل لمسافة الطاقة</label>
-    <label><input type="radio" name="q8" value="Valence ترتفع"> Valence ترتفع</label>
-    <label><input type="radio" name="q8" value="Valence تنخفض"> Valence تنخفض</label>
+    <label><input type="radio" name="q8" value="الفولت يقل لمسافة الطاقة"> الفولت يقل لزيادة المساحة بين Valence band and conduction band  معا   </label>
+    <label><input type="radio" name="q8" value="Valence ترتفع"> الفولت يقل وذلك Valence Band   تتحرك الى اعلى P,N  مما يعنى ذلك ان الالكترونات المثارة تحتاج الى طاقة اعلى نسبا لتتحرر </label>
+    <label><input type="radio" name="q8" value="Valence تنخفض"> الفولت يزيد وذلك لزيادة المساحة وذلك نسبة الى ان Valence band  تتحرك الى اسفل</label>
   </div>
 
   <div class="question">
     <p>9. انخفاض استجابة السيليكون مع الأشعة فوق البنفسجية بسبب:</p>
-    <label><input type="radio" name="q9" value="الزجاج"> الزجاج</label>
-    <label><input type="radio" name="q9" value="الإطار المعدني"> الإطار المعدني</label>
-    <label><input type="radio" name="q9" value="الطول الموجي القصير"> الطول الموجي القصير</label>
+    <label><input type="radio" name="q9" value="الزجاج"> للزجاج الصلب الموجود فى مقدمة اللوح</label>
+    <label><input type="radio" name="q9" value="الإطار المعدني"> للفريم المعدنى الذى يحمى اللوح </label>
+    <label><input type="radio" name="q9" value="الطول الموجي القصير"> نسبة الى الطول الموجى القصير جدا الذى لايستطيع اختراق الزجاج </label>
   </div>
 
   <div class="question">
-    <p>✍️ ملاحظات أو أفكار إضافية (اختياري):</p>
+    <p>✍️ هل فيزياء الكم تشرح مايحدث داخل الالواح بطريقة اعمق ؟ كيف يمكن تقليل الحزمه التى لايمكن الاستفادة منها من نظرك (اختياري):</p>
     <textarea name="note" placeholder="اكتب أي ملاحظة أو تعليق هنا..."></textarea>
   </div>
 
