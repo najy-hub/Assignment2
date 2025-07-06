@@ -128,9 +128,9 @@
   </div>
 
   <div class="question">
-    <p>2. تقنية Photo Voltage تتناسب أكثر مع:</p>
-    <label><input type="radio" name="q2" value="افريقيا"> افريقيا</label>
-    <label><input type="radio" name="q2" value="اوروبا"> اوروبا</label>
+    <p>2. تقنية Photo voltaics تتناسب أكثر مع:</p>
+    <label><input type="radio" name="q2" value="افريقيا"> افريقيا (الاشعه تحت الحمراء اكبر)</label>
+    <label><input type="radio" name="q2" value="اوروبا"> اوروبا (الاشعة فوق البنفسحية اكبر)</label>
   </div>
 
   <div class="question">
