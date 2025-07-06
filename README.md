@@ -156,7 +156,7 @@
 
   <div class="question">
     <p>6. يمكن القول ان اللوح من نوع P-type   إذا كان :</p>
-    <label><input type="radio" name="q6" value="Bulk P "> Bulk area  من نوع P-type </label>
+    <label><input type="radio" name="q6" value="Bulk P"> Bulk area  من نوع P-type </label>
     <label><input type="radio" name="q6" value="Emitting P"> Emitting area من نوع P-type</label>
     <label><input type="radio" name="q6" value="كلاهما P"> الاثنين من نوع P-type</label>
   </div>
